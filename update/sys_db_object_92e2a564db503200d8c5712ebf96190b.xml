@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-01-10 12:47:31</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>92e2a564db503200d8c5712ebf96190b</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>My Test App Table</sys_name>
