@@ -4,77 +4,62 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_11080_my_test_ap_my_test_app_table" element="NULL" name="x_11080_my_test_ap_my_test_app_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5b78e1a8db503200d8c5712ebf961950</list_id>
+            <list_id display_value="x_11080_my_test_ap_my_test_app_table" element="NULL" name="x_11080_my_test_ap_my_test_app_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7843c268db903200d8c5712ebf961917</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-01-10 13:11:52</sys_created_on>
-            <sys_id>9f78e1a8db503200d8c5712ebf961950</sys_id>
+            <sys_created_on>2017-01-10 15:08:50</sys_created_on>
+            <sys_id>bc43c268db903200d8c5712ebf961917</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-01-10 13:11:52</sys_updated_on>
+            <sys_updated_on>2017-01-10 15:08:50</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>state</element>
-            <list_id display_value="x_11080_my_test_ap_my_test_app_table" element="NULL" name="x_11080_my_test_ap_my_test_app_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5b78e1a8db503200d8c5712ebf961950</list_id>
+            <list_id display_value="x_11080_my_test_ap_my_test_app_table" element="NULL" name="x_11080_my_test_ap_my_test_app_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7843c268db903200d8c5712ebf961917</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-01-10 13:11:52</sys_created_on>
-            <sys_id>1378e1a8db503200d8c5712ebf961951</sys_id>
+            <sys_created_on>2017-01-10 15:08:50</sys_created_on>
+            <sys_id>3043c268db903200d8c5712ebf961918</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-01-10 13:11:52</sys_updated_on>
+            <sys_updated_on>2017-01-10 15:08:50</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>assigned_to</element>
-            <list_id display_value="x_11080_my_test_ap_my_test_app_table" element="NULL" name="x_11080_my_test_ap_my_test_app_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5b78e1a8db503200d8c5712ebf961950</list_id>
+            <list_id display_value="x_11080_my_test_ap_my_test_app_table" element="NULL" name="x_11080_my_test_ap_my_test_app_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7843c268db903200d8c5712ebf961917</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-01-10 13:11:52</sys_created_on>
-            <sys_id>9378e1a8db503200d8c5712ebf961951</sys_id>
+            <sys_created_on>2017-01-10 15:08:50</sys_created_on>
+            <sys_id>b043c268db903200d8c5712ebf961918</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-01-10 13:11:52</sys_updated_on>
+            <sys_updated_on>2017-01-10 15:08:50</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>short_description</element>
-            <list_id display_value="x_11080_my_test_ap_my_test_app_table" element="NULL" name="x_11080_my_test_ap_my_test_app_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5b78e1a8db503200d8c5712ebf961950</list_id>
+            <element>sys_class_name</element>
+            <list_id display_value="x_11080_my_test_ap_my_test_app_table" element="NULL" name="x_11080_my_test_ap_my_test_app_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7843c268db903200d8c5712ebf961917</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-01-10 13:11:52</sys_created_on>
-            <sys_id>1778e1a8db503200d8c5712ebf961951</sys_id>
+            <sys_created_on>2017-01-10 15:08:50</sys_created_on>
+            <sys_id>3443c268db903200d8c5712ebf961918</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-01-10 13:11:52</sys_updated_on>
-        </sys_ui_list_element>
-        <sys_ui_list_element action="INSERT_OR_UPDATE">
-            <average_value>false</average_value>
-            <element>sys_class_name</element>
-            <list_id display_value="x_11080_my_test_ap_my_test_app_table" element="NULL" name="x_11080_my_test_ap_my_test_app_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5b78e1a8db503200d8c5712ebf961950</list_id>
-            <max_value>false</max_value>
-            <min_value>false</min_value>
-            <position>4</position>
-            <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-01-10 13:11:52</sys_created_on>
-            <sys_id>9778e1a8db503200d8c5712ebf961951</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-01-10 13:11:52</sys_updated_on>
+            <sys_updated_on>2017-01-10 15:08:50</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -88,11 +73,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-01-10 13:11:52</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
+            <sys_created_on>2017-01-10 15:08:50</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>5b78e1a8db503200d8c5712ebf961950</sys_id>
+            <sys_id>7843c268db903200d8c5712ebf961917</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_11080_my_test_ap_my_test_app_table</sys_name>
             <sys_package display_value="My Test App" source="x_11080_my_test_ap">52e2a564db503200d8c5712ebf96190b</sys_package>
@@ -101,7 +86,7 @@
             <sys_scope display_value="My Test App">52e2a564db503200d8c5712ebf96190b</sys_scope>
             <sys_update_name>sys_ui_list_x_11080_my_test_ap_my_test_app_table_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-01-10 13:11:52</sys_updated_on>
+            <sys_updated_on>2017-01-10 15:08:50</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
